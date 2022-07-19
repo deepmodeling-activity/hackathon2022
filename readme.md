@@ -1,5 +1,5 @@
 # Hackathon2.0
-Hello everyone! Welcome to Hackathon 2.0, where you are going to have a fantactic journey. This file tends to help you along the way. Next you will be informed what you should do and the corresponding documents, instructions, deadline, and so on.
+Hello everyone! Welcome to Hackathon 2.0, where you are going to have a fantactic journey. This file intends to help you along the way. Next you will be informed what you should do and the corresponding documents, instructions, deadline, and so on.
 
 ## Writing proposal
 For starters, you need to choose one of the six topics in this competition:
