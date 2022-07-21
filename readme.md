@@ -1,5 +1,36 @@
-# Hackathon2.0
-Hello everyone! Welcome to Hackathon 2.0, where you are going to have a fantactic journey. This file intends to help you along the way. Next you will be informed what you should do and the corresponding documents, instructions, deadline, and so on.
+<p align="center"> <strong> Welcome to DeepModeling Hackathon 2.0!</strong> </p>
+
+## Introduction 
+This repository intends to distribute information related to the competition. We will also upload everyone's work here after the deadline.
+
+## Competition Timeline
+
+### First Round 
+Time: 07/21/2022 - 08/06/2022
+#### Stage 1: Prepare your senses, learn to flow
+|  | Time | Location |
+|---|---|---|
+| Opening ceremony: DeepModeling Hackathon 2.0 - Challenge from Efficiency | 07/21/2022 20:00 - 21:30 (GMT+8) | [Live Link](https://t.bilibili.com/684492052057030712?spm_id_from=444.41.0.0) |
+| Dflow tutorials: Novice Mission and Q&A | 07/22/2022 20:00 - 21:00 (GMT+8) | TBD |
+  
+#### Stage 2: Create your goal, explore the world
+|  | Time | Location | More | 
+|---|---|---|---|
+| Dflow workflow showcase | 07/23/2022 09:00 - 10:30 (GMT+8) | TBD | - |
+| Proposal submission deadline | 07/24/2022 18:00 (GMT+8) | - | [Click here for more information]()|
+
+#### Stage 3: Hack your future, run the world 
+|  | Time | Location | More |
+|---|---|---|---|
+| Proposal feedback | 07/25/2022 18:00 (GMT+8) | - | [Click here for more information]() |
+| Dflow night school | 07/25/2022 - 07/31/2022 21:00 - 22:00 (GMT+8) | TBD | [Click here for more information]() |
+| Submission deadline | 08/04/2022 23:59 (GMT+8) | TBD | [Click here for more information]() |
+| Project presentation | 08/06/2022 09:00 (GMT+8) | TBD | [Click here for more information]() |
+
+### Final Round 
+Time: 07/21/2022 - 08/06/2022
+
+**More information will be announced here**
 
 ## Writing proposal
 For starters, you need to choose one of the six topics in this competition:
