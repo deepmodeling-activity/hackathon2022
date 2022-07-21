@@ -10,7 +10,7 @@ Information related to the competition will be distributed here. Submission will
 #### Stage 1: Prepare your senses, learn to flow
 |  | Time | Location |
 |---|---|---|
-| Opening ceremony: DeepModeling Hackathon 2.0 - Challenge from Efficiency | 07/21/2022 20:00 - 21:30 (GMT+8) | [Live Link](https://t.bilibili.com/684492052057030712?spm_id_from=444.41.0.0) |
+| <p align="center"> **Opening ceremony** <br> DeepModeling Hackathon 2.0 - Challenge from Efficiency | 07/21/2022 20:00 - 21:30 (GMT+8) | [Live Link](https://t.bilibili.com/684492052057030712?spm_id_from=444.41.0.0) |
 | Dflow tutorials: Novice Mission and Q&A | 07/22/2022 20:00 - 21:00 (GMT+8) | TBD |
   
 #### Stage 2: Create your goal, explore the world
