@@ -6,7 +6,7 @@ Information related to the competition will be distributed here. Submission will
 ## Competition Timeline
 
 ### First Round 
-Time: 07/21/2022 - 08/06/2022
+**07/21/2022 - 08/06/2022**
 #### Stage 1: Prepare your senses, learn to flow
 |  | Time | Location |
 |---|---|---|
@@ -28,9 +28,9 @@ Time: 07/21/2022 - 08/06/2022
 | Project presentation | 08/06/2022 09:00 (GMT+8) | TBD | [Click here for more information]() |
 
 ### Final Round 
-Time: 07/21/2022 - 08/06/2022
+**7/21/2022 - 08/06/2022**
 
-**More information will be announced here**
+**(More information will be announced here)**
 
 ## Writing proposal
 For starters, you need to choose one of the six topics in this competition:
