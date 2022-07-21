@@ -2,6 +2,7 @@
 
 ## Introduction 
 Information related to the competition will be distributed here. Submission will also be uploaded here after the deadline.
+DeepModeling community recently released a new software, [dflow](https://github.com/deepmodeling/dflow). dflow is a workflow development kit designed towards 
 
 ## Competition Timeline
 
