@@ -1,7 +1,7 @@
 <p align="center"> <strong> Welcome to DeepModeling Hackathon 2.0!</strong> </p>
 
 ## Introduction 
-This repository intends to distribute information related to the competition. We will also upload everyone's work here after the deadline.
+Information related to the competition will be distributed here. Submission will also be uploaded here after the deadline.
 
 ## Competition Timeline
 
