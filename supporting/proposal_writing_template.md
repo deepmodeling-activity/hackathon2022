@@ -14,9 +14,8 @@ In this part, you can expand on the traditional workflow. What are the problems 
 ### 3.2 How to with dflow
 Draw your workflow diagram. 
 
-### 3.3 The machine environment
-- Computing resources (Required): 
-  - HPC Cluster
-  - Cloud
-  - PC
-  - ...
+### 3.3 Computing resources
+- HPC Cluster
+- Cloud
+- PC
+- ...
