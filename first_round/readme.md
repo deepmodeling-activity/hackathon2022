@@ -11,7 +11,7 @@ There are several topics we intend to cover in this series:
 - Using dflow to write a simple workflow 
     - [dflow-helloworld.ipynb](https://github.com/deepmodeling/dflow/blob/master/tutorials/dflow-helloworld.ipynb)
     - [dflow-python.ipynb](https://github.com/deepmodeling/dflow/blob/master/tutorials/dflow-python.ipynb)
-- Using dflow with to submit job on cluter
+- Using dflow with to submit job on cluster
     - [dflow-slurm.ipynb](https://github.com/deepmodeling/dflow/blob/master/tutorials/dflow-slurm.ipynb)
 - Advanced functionality of dflow
     - running jobs in parallel: [dflow-slices.ipynb](https://github.com/deepmodeling/dflow/blob/master/tutorials/dflow-slices.ipynb)
