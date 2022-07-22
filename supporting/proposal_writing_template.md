@@ -6,7 +6,7 @@
 Here, you need to specify what you want to do with dflow within the topic you have chosen. For instance, you can describe the traditional workflow and then  state how you can achieve the automatic workflow based on dflow. 
 
 ## 3. How to achieve it 
-You can expand your dflow insights in detail in this section, including but not limit to 3.1 the traditional workflow, 3.2 how to with dflow, 3.3 the machine environment, 
+You can expand your dflow insights in detail in this section, including but not limit to 3.1 the traditional workflow, 3.2 how to with dflow, 3.3 computing resources. 
 
 ### 3.1 The traditional workflow
 In this part, you can expand on the traditional workflow. What are the problems and disadvantages?
