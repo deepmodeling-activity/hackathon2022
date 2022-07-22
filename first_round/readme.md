@@ -28,15 +28,15 @@ In this stage, you are expected to propose your own project. The goal is to solv
 2. Writing proposal
 For starters, you need to choose one of the six topics in this competition to improve the efficiency:
 - AI-assisted molecular dynamics simulations
-   - 选择此赛道的选手可围绕分子动力学模拟、解决同步学习训练数据生成算法自动化程度低的问题
+   - Participants who choose this track can work around molecular dynamics simulations and solve the problem of low automation of concurrent learning training data generation algorithms
 - AI-assisted electronic structure calculations
-   - 选择此赛道的选手可围绕第一性原理计算和机器学习泛函，解决使用第一性原理原理计算软件（量子化学、密度泛函理论）繁琐的文件准备，结果后处理等环节，或使用DeePKS-kit时繁琐重复的工作
+   - The participants who choose this track can solve the tedious file preparation and post-processing of results using first principles calculation software (quantum chemistry, DFT) or the tedious and repetitive work when using DeePKS-kit by focusing on first principles calculation and machine learning general functions
 - Differentiable force field calculation engine
-   - 选择此赛道的选手可使用自动微分框架，解决立场开发（包括但不限于经典立场，可极化立场等）中参数优化困难、自动化程度低的问题
+   - Participants who choose this track can use the automatic differentiation framework to solve the problems of difficult parameter optimization and low automation in force field development (including but not limited to classical force field, polarizable force field, etc.)
 - Numerical solution algorithm library for partial differential equations
-    - 选择此赛道的选手可使用偏微分方程数值解算法库，解决一些带参数数值的计算方法最优参数选择的问题
+    - Participants who choose this track can use the library of algorithms for the numerical solution of partial differential equations to solve the problem of optimal parameter selection for some computational methods with parametric values
 - Combustion reaction fluid computational platform
-   - 选择此赛道的选手可使用DeepFlame燃烧反应流体力学求解框架，解决包括但不限于基于经典火焰面化学建表的燃烧计算中流程繁琐、参数优化困难、高维数据库生成速度慢、与CFD耦合自动化程度低等问题
+   - Participants who choose this track can use the DeepFlame, this combustion reaction hydrodynamics solution framework to solve problems including, but not limited to, cumbersome processes, difficult parameter optimization, slow generation of high-dimensional databases, and low automation of coupling with CFD in combustion calculations based on classical flame-surface chemical table building
 - Workflow development kit 
     - please see this [issue](https://github.com/deepmodeling/dflow/issues/34)
    
