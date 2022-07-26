@@ -51,8 +51,8 @@ For starters, you need to choose one of the six topics in this competition.
 #### Template
 You can find the template for proposal writing in the [supporting file](https://github.com/deepmodeling-activity/hackathon2022/blob/main/supporting/proposal_writing_template.md). 
 
-#### Submission
-- Deadline: 07/24/2022 18:00 (GMT+8). After this time, your proposal will not be reviewed.
+#### Submission (Deadline Extended)
+- Deadline: 07/29/2022 18:00 (GMT+8). After this time, your proposal will not be reviewed.
 - File format: PDF is preferred.
 - File name: yourName_WechatID_proposal.pdf
 - Please send your proposal to hackathon@dp.tech with email title, yourName_WechatID_proposal 
