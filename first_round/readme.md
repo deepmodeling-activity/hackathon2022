@@ -8,6 +8,9 @@ We prepared a series of tutorials to learn dflow. You can find it here: [dflow-t
 
 There are several topics we intend to cover in this series:
 - Installation and setup 
+    - [install_manual_windowsos.md](https://github.com/deepmodeling/dflow/blob/master/tutorials/install_manual_windowsos.md)
+    - [install_manual_macos.md](https://github.com/deepmodeling/dflow/blob/master/tutorials/install_manual_macos.md)
+    - [install_manual_linuxos.md](https://github.com/deepmodeling/dflow/blob/master/tutorials/install_manual_linuxos.md)
 - Using dflow to write a simple workflow 
     - [dflow-helloworld.ipynb](https://github.com/deepmodeling/dflow/blob/master/tutorials/dflow-helloworld.ipynb)
     - [dflow-python.ipynb](https://github.com/deepmodeling/dflow/blob/master/tutorials/dflow-python.ipynb)
