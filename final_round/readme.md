@@ -6,6 +6,7 @@ Congradulation on your excellence and efforts! What you need do in the final rou
    - []()
 - AI-assisted electronic structure calculations: [DeePKS-kit](https://github.com/deepmodeling/deepks-kit), [ABACUS](https://github.com/deepmodeling/abacus-develop)
    - [provide BoltzTraP interface #1158](https://github.com/deepmodeling/abacus-develop/issues/1158)
+   - [dflow+deepks issue for Hackathon #30](https://github.com/deepmodeling/deepks-kit/issues/30)
 - Computational fluid dynamics suite for reacting flow with machine learning: [DeepFlame](https://github.com/deepmodeling/deepflame-dev)
    - []()
 - Workflow development kit: [dflow](https://github.com/deepmodeling/dflow/)
