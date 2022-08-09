@@ -30,6 +30,6 @@ Information related to the competition will be distributed here. Submission will
 | <p align="center"> **Project Presentation** | 08/06/2022 09:00 (GMT+8) | TBD | [Click here for more information]() |
 
 ### Final Round 
-**7/21/2022 - 08/06/2022**
+**8/8/2022 - 08/27/2022**
 
 **(More information will be announced here)**
