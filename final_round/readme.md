@@ -3,7 +3,7 @@ Congradulation on your excellence and efforts! What you need do in the final rou
 
 ## Final issues
 - AI-assisted molecular dynamics simulations: [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit), [DPGEN](https://github.com/deepmodeling/dpgen)
-   - []()
+   - [implement more OPs and workflows #64](https://github.com/deepmodeling/dpgen2/issues/64)
 - AI-assisted electronic structure calculations: [DeePKS-kit](https://github.com/deepmodeling/deepks-kit), [ABACUS](https://github.com/deepmodeling/abacus-develop)
    - [provide BoltzTraP interface #1158](https://github.com/deepmodeling/abacus-develop/issues/1158)
    - [dflow+deepks issue for Hackathon #30](https://github.com/deepmodeling/deepks-kit/issues/30)
