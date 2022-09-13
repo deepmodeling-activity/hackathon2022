@@ -21,7 +21,7 @@ Information related to the competition will be distributed here. Submission will
 | <p align="center"> **Dflow Workflow Showcase 2** <br> Yanze Wang: dflow + RiD | 07/23/2022 09:00 - 10:30 (GMT+8) | - | [Recording Link](https://www.bilibili.com/video/BV1Zr4y1L7e9/?spm_id_from=333.788&vd_source=b515a0a67e15978a3d1a0029332c54d2) |
 | <p align="center"> **Dflow Workflow Showcase 3** <br> Taiping Hu: dflow + first principle calculation | 07/23/2022 09:00 - 10:30 (GMT+8) | - | [Recording Link](https://www.bilibili.com/video/BV1GN4y177ns/?spm_id_from=333.788.recommend_more_video.0&vd_source=b515a0a67e15978a3d1a0029332c54d2) |
 |  <p align="center"> **Proposal Submission Deadline** | 07/29/2022 18:00 (GMT+8) | - | [Click here for more information](https://github.com/deepmodeling-activity/hackathon2022/tree/main/first_round#stage-2-create-your-goal-explore-the-world)|
-   <P align="center"> **Dflow Workflow Showcase 4**<br> Jiankun Pu: dflow from SMILES to Force Field | 07/23/2022 09:00 - 10:30 (GMT+8) | - | [Recording Link](https://www.bilibili.com/video/BV1zN4y1L7Rw?share_source=copy_web&vd_source=f6856eb86c5b384d64562cf85eaef639) |
+|	<P align="center"> **Dflow Workflow Showcase 4**<br> Jiankun Pu: dflow from SMILES to Force Field | 07/23/2022 09:00 - 10:30 (GMT+8) | - | [Recording Link](https://www.bilibili.com/video/BV1zN4y1L7Rw?share_source=copy_web&vd_source=f6856eb86c5b384d64562cf85eaef639) |
 
 #### Stage 3: Hack your future, run the world 
 |  | Time | Location | More |
