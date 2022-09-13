@@ -21,13 +21,13 @@ For the details on the schedule of final presentation, you can check them here.
 
 | **Time** | **Programs** |**Candidates**|**Presentation titles**|
 |---|---|---|---|
-|  |20:00-20:10| Closing Ceremony| Han Wang |
-|  |20:10-20:30|1st presentation|Yanbo Han|
-|  |20:30-20:50|2nd presentation|Zezhong Zhang|
-|  |20:50-21:10|3rd presentation|Yifan Shan|
-|  |21:10-21:30|4th presentation|Dong Wang|
-|  |21:30-21:50|5th presentation|Mingkang Liu|
-|  |21:50-22:00|Summary| Zhi Chen |
+|20:00-20:10| Closing Ceremony| Han Wang |  |
+|20:10-20:30|1st presentation|Yanbo Han|  |
+|20:30-20:50|2nd presentation|Zezhong Zhang|   |
+|20:50-21:10|3rd presentation|Yifan Shan|   |
+|21:10-21:30|4th presentation|Dong Wang|   |
+|21:30-21:50|5th presentation|Mingkang Liu|   |
+|21:50-22:00|Summary| Zhi Chen |   |
 
 In the final round of DeepModeling Hackathon 2.0, five hackers used their knowledge and thoughts to win the competition. In the future, they'll collaborate with DeepModeling to add more value. You can view the final project by clicking the link below.
 
