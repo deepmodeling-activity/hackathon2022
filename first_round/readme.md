@@ -1,12 +1,13 @@
 ## Introduction 
 What's up hacker! Glad that you accepted the challenge! 
-There are three stages in the first round. These stages are intended to guide you from not knowing dflow to a master of using dflow. 
+There are three stages in the first round. These stages are intended to guide you from not knowing dflow to a master of using dflow. **[Click here for more information](https://mp.weixin.qq.com/s?__biz=MzUxMDQwOTk4MA==&mid=2247490627&idx=1&sn=e06b4a1e484b55896db5582f3eb127f5&chksm=f90231d0ce75b8c65bacaf6af517ca749a399bbbea3dd8b3059ef1856f25d88baaf194a9806d&token=249458300&lang=zh_CN#rd)**
 
 ## Stage 1: prepare your senses, learn to flow
 ### Dflow Tutorials
 We prepared a series of tutorials to learn dflow. You can find it here: [dflow-tutorials](https://github.com/deepmodeling/dflow/tree/master/tutorials)
 
 There are several topics we intend to cover in this series:
+
 - Installation and setup 
     - [install_manual_windowsos.md](https://github.com/deepmodeling/dflow/blob/master/tutorials/install_manual_windowsos.md)
     - [install_manual_macos.md](https://github.com/deepmodeling/dflow/blob/master/tutorials/install_manual_macos.md)
@@ -35,7 +36,9 @@ In this stage, you are expected to propose your own project. The goal is to solv
 ### About proposal 
 
 #### Topics 
+
 For starters, you need to choose one of the six topics in this competition.
+
 - AI-assisted molecular dynamics simulations: [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit), [DPGEN](https://github.com/deepmodeling/dpgen)
    - Participants in this track should propose a project that is on AI assisted molecular dynamics simulation and tries to improve the level of automation in training data generation algorithm under concurrent learning framework.
 - AI-assisted electronic structure calculations: [DeePKS-kit](https://github.com/deepmodeling/deepks-kit), [ABACUS](https://github.com/deepmodeling/abacus-develop)
@@ -79,9 +82,11 @@ We invited some guests to give helpful tutorials and lectures for your reference
 - Please send your final project to hackathon@dp.tech with email title, yourName_WechatID_project
 
 #### Grading 
+
 Total points: 100pts.
 
 Mentors of each topic will grade your work from three aspects: 
+
 - Degree of completion (40%): the final project will be compared with the proposal. Mentors will evaluate on what you proposed and what you have achieved.
 - Degree of automation (40%): you are supposed to explain the traditional workflow in your documentation. Mentors will evaluate your final project base on the degree of automation compared to the traditional workflow.
 - Documention completeness (20%): you are responsible for your own project, which means you should write the documentation of your code carefully. Mentors will grade on the effort on reading and using your code.
