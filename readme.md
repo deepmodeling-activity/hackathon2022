@@ -38,7 +38,7 @@ Information related to the competition will be distributed here. Submission will
 - **issues** Please find the enclosed [link](https://github.com/deepmodeling-activity/hackathon2022/blob/main/final_round/readme.md) to check corresponding issues. 
 - **discussion** You will have a amazing chance to discuss with your mentors during this period at least once a week.
 #### Final Presentation 
-This final presenation is going to be held on **08/27/2022 9:30 (GMT+8)**. Please check this [link]() for more information.
+This final presenation is going to be held on **08/27/2022 9:30 (GMT+8)**. 
 #### Final Results
 In the final round of DeepModeling Hackathon 2.0, five hackers used their knowledge and thoughts to win the competition. In the future, they'll collaborate with DeepModeling to add more value. You can view the final project by clicking the link below.
 
